@@ -97,6 +97,8 @@ Macro-environmental factors evaluation:
 - **Environmental** - Sustainability initiatives
 - **Legal** - Food safety regulations, labeling requirements
 
+![alt text](image-3.png)
+
 ## 💡 Strategic Recommendations
 
 ### Recommendation Evaluation: SAFE Framework
@@ -106,6 +108,11 @@ All strategic options were evaluated using the SAFE framework:
 - **Acceptability** - Stakeholder support and risk levels
 - **Feasibility** - Resource availability and implementation capability
 - **Effectiveness** - Expected outcomes and objectives achievement
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+
 
 ### Strategic Options Analyzed
 
