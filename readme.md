@@ -1,6 +1,5 @@
 # Tayto Snacks - Business Strategy Analysis
 
-![alt text](image.png)
 
 ## 📋 Project Overview
 
@@ -73,12 +72,18 @@ Comprehensive evaluation of:
 - **Opportunities** - Global expansion, product diversification, health-conscious market
 - **Threats** - Intense competition, changing consumer preferences, economic factors
 
+![alt text](image.png)
+
+
 #### 2. VRIO Framework
 Assessment of internal resources based on:
 - **Value** - Does it provide customer value?
 - **Rarity** - Is it rare among competitors?
 - **Imitability** - Is it difficult to imitate?
 - **Organization** - Is the company organized to exploit it?
+
+![alt text](image-1.png)
+
 
 ### External Analysis
 
