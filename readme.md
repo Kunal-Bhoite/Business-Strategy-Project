@@ -5,15 +5,6 @@
 
 This comprehensive business strategy report analyzes **Tayto Snacks**, Ireland's most iconic crisp brand, and provides strategic recommendations for global expansion. The study employs multiple strategic frameworks to evaluate Tayto's current market position and identify growth opportunities beyond the Irish market.
 
-## 👥 Team Members
-
-- **Sudhanshu Akarshe** - 20000762
-- **Pranita Nanekar** - 20000809
-- **Kunal Bhoite** - 20000769
-- **Kajal Pawar** - 20001279
-
-**Module:** Business Strategy  
-**Lecturer:** Juan Fravega
 
 ## 🎯 Project Objectives
 
@@ -94,6 +85,8 @@ Analysis of competitive environment:
 - Bargaining power of buyers
 - Threat of substitute products
 - Competitive rivalry intensity
+
+![alt text](image-2.png)
 
 #### 4. PESTEL Analysis
 Macro-environmental factors evaluation:
